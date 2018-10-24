@@ -23,3 +23,5 @@ Postignuto:
 ### Problemi:
 - Zastave država : problem je bio što su zastave sačuvane u vidu .svg, a react-native ima problem sa svg ekstenzijama pogotovo zbog velikog broja istih pokušavao sam sa nekim library-ma ali bude veliki performance problem zbog velikog broja,tako da sam malo zaobišao taj problem korištenjem drugog linka i mijenjanja samo naziva linka,što možete vidjeti u Home komponenti,samo par država nema sliku, koje su slabije poznate.
 - Love Track: Problem sa funkcijom love.track nastaje u zadnjem koraku, kada treba poslati post request da se doda track,pokušavao sam na više načina riješiti ali trenutno jos nije riješen. Prvi korak uspješno prođe(getMobileSession) dobijem nazad key ali kada želim da pošaljem love.rack request dobijem nazad Invalid parameters - Your request is missing a required parameter, iako sam više puta provjerio da su svi parametri tu. Ovaj problem se nalazi u src/redux/actions/trackLoveActions.js,privremeno sam stavio popup da se pojavi dok ne riješim isti.
+### Screenshots
+U direktoriji screenshots ima par slika kako izgleda aplikacija
