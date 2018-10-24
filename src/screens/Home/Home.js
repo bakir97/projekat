@@ -22,7 +22,7 @@ import {
   getCountriesToRedux,
   countriesError
 } from "../../redux/actions/getCountriesActions";
-export class Home extends Component {
+class Home extends Component {
   state = {
     search: "",
     countries: []
