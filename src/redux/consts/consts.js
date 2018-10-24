@@ -1,0 +1,8 @@
+export const GET_COUNTRIES = "GET_COUNTRIES";
+export const GET_TRACKS = "GET_TRACKS";
+export const GET_ONE_TRACK = "GET_ONE_TRACK";
+export const COUNTRIES_ERROR = "COUNTRIES_ERROR";
+export const GET_ONE_TRACK_ERROR = "GET_ONE_TRACK_ERROR";
+export const TRACKS_ERROR = "TRACKS_ERROR";
+export const TRACK_LOVE_ERROR = "TRACK_LOVE_ERROR";
+export const NO_DATA = "NO_DATA";
