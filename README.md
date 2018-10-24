@@ -1,6 +1,6 @@
 # projekat
 Projekat sa Last.fm Api-om
-Postignuto:
+### Postignuto:
 - Uspješno pronalaženje država i prikazivanja istih te spremanja u AsyncStorage,tako da se ponovo ne moraju dohvatati,
 - Uspješna implementacija pretraživanja određene države,
 - Uspješna implementacija navigacije,
